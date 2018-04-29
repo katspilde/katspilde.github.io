@@ -11,14 +11,15 @@ h1 {
 	font-weight: 500;
 	line-height: 26.4px;
     text-align: center;
+	color: #404040;
 }
 h2 {
     text-align: center;
-    color: ;
+    color: #404040;
 }
 h3{ 
     text-align: center;
-    color: #F5DEB3;
+    color: #404040;
 }
 img { 
     width: 200px; 
