@@ -1,5 +1,7 @@
 body { 
-    background-color: #660000;
+    background: url(katspilde.github.io/2249112-watercolor-wallpaper.jpg) no-repeat center center;
+    background-size: cover;
+    
 }
 h1 {
     text-align: center;
